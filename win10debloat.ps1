@@ -62,7 +62,7 @@ $tweaks = @(
 	"SetUACLow",                  # "SetUACHigh",
 	# "EnableSharingMappedDrives",  # "DisableSharingMappedDrives",
 	# "DisableAdminShares",           # "EnableAdminShares",
-	"DisableSMB1",                # "EnableSMB1",
+	#"DisableSMB1",       1         # "EnableSMB1",
 	# "DisableSMBServer",           # "EnableSMBServer",
 	# "DisableLLMNR",               # "EnableLLMNR",
 	"SetCurrentNetworkPrivate",     # "SetCurrentNetworkPublic",
